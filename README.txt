@@ -1,7 +1,7 @@
 
-This repository contains all raw input, as well as output files to allow readers to reproduce the analyses carried out in Miranda et al 202X.
+This repository contains main inputs, as well as output files to allow readers to reproduce the analyses carried out in Miranda et al 202X.
 
-Miranda LS, Prestes BO, Aleixo A (2020) Molecular systematics and phylogeography of a widespread Neotropical avian lineage: evidence for cryptic speciation with protracted gene flow throughout the Late Quaternary. Biological Journal of the Linnean Society
+Miranda LS, Prestes BO, Aleixo A (202X) Molecular systematics and phylogeography of a widespread Neotropical avian lineage: evidence for cryptic speciation with protracted gene flow throughout the Late Quaternary. Biological Journal of the Linnean Society
 
 
 The following files are included in the repository:
